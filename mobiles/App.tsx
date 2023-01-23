@@ -21,7 +21,10 @@ export default function App() {
   });
   if (!fontsLoaded) {
     return (
-      <Loading />
+      <>
+        <Loading />
+        <StatusBar barStyle="light-content" backgroundColor="transparent" translucent />
+      </>
     );
   }
 
