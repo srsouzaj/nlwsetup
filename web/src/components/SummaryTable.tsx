@@ -12,7 +12,7 @@ const weekDays = [
 const summaryDates = generateDatesFromYearBeginning()
 const minimumSummaryDatesSize = 18 * 7 // 18 weeks
 const amountOfDaysToFill = minimumSummaryDatesSize - summaryDates.length
-export function SummaryTable() {
+export const SummaryTable = () => {
     return (
         <div className="w-full flex">
             <div className="grid grid-rows-7 grid-flow-row gap-3">
