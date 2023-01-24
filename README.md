@@ -8,7 +8,7 @@
 ## **💻** Projeto
 <br />
 
-Aplicação realizada durante a Imersão “Next Level Week - Setup”, promovido pela Rocketseat, a qual desenvolvemos uma aplicação FullStack (Frontend - Mobile - Backend) para adicionar e controlar seu hábitos diariamente.
+Com a virada do ano, sempre surgem novos propositos e expectativas para o novo ano que se aproxima. Assim, a fim de controlar essas metas mensalmente, foi criada uma aplicação durante a Imersão “Next Level Week - Setup” - promovido pela Rocketseat - a qual desenvolvemos um projeto FullStack (Frontend - Mobile - Backend) para adicionar e controlar seu hábitos diariamente.
 <br/>
 <br/>
 <p align="center">
