@@ -7,13 +7,15 @@
 
 ## **💻** Projeto
 <br />
-Aplicação realizada durante a Imersão “Next Level Week - Setup”, promovido pela Rocketseat, a qual desenvolvemos uma aplicação FullStack (Frontend - Mobile - Backend) para adicionar e controlar seu hábitos diariamente.
 
+Aplicação realizada durante a Imersão “Next Level Week - Setup”, promovido pela Rocketseat, a qual desenvolvemos uma aplicação FullStack (Frontend - Mobile - Backend) para adicionar e controlar seu hábitos diariamente.
+<br/>
+<br/>
 <p align="center">
   <img alt="NLW Setup" src=".github/background.png" />
 </p>
 
-<br />
+
 ## Tecnologias utilizadas
 
 - [Typescript](https://www.typescriptlang.org/)
@@ -36,6 +38,8 @@ Aplicação realizada durante a Imersão “Next Level Week - Setup”, promovid
 - [zod](https://github.com/colinhacks/zod)
 - [Prisma](https://www.prisma.io/)
 - [SQlite](https://www.sqlite.org/index.html)
+
+<br/>
 
 ## **🔖** Layout
 
